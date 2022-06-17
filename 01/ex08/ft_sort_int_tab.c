@@ -10,11 +10,11 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-void ft_sort_int_tab(int *tab, int size)
+void	ft_sort_int_tab(int *tab, int size)
 {
-	int i;
-	int s;
-	int swap;
+	int	i;
+	int	s;
+	int	swap;
 
 	i = 0;
 	while (i < size)
