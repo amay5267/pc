@@ -10,6 +10,7 @@ void	ft_putstr(char *str)
 		ing++;
 	}
 }
+
 int	main(void)
 {
 	char	t[] = {"Hello\n"};
